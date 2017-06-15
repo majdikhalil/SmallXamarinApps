@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<ID>9f0332c4-c70d-4b6f-85bf-d348eec66510</ID>
+	<IsFullApplication>false</IsFullApplication>
+	<Level>Intermediate</Level>
+	<Tags>User Interface</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+    <LicenseRequirement>Starter</LicenseRequirement>
+    <Brief>A cross platform sample which that demonstrates the usage of some common content controls.</Brief>
+	<Gallery>true</Gallery>
+</SampleMetadata>

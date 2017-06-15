@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SampleMetadata>
+	<ID>7c8129ad-1460-42fa-8196-27818a254419</ID>
+	<IsFullApplication>true</IsFullApplication>
+	<Level>Intermediate</Level>
+	<Tags>User Interface</Tags>
+	<SupportedPlatforms>Android, iOS</SupportedPlatforms>
+    <LicenseRequirement>Indie</LicenseRequirement>
+	<Gallery>true</Gallery>
+    <Brief>Tip calculator is simple cross platform application, which calculates the correct tip amount.</Brief>
+</SampleMetadata>
